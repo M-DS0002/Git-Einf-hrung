@@ -14,3 +14,5 @@ Das ist ein Test-Repositorium für die git-Einführung am 4. Juli.
 
 - 
 Test-Commit
+
+Irgendwo ein fehlendes Komma ergänzt - Issue geschlossen
